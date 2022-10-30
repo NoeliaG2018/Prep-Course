@@ -1,0 +1,25 @@
+Variables:
+Son "espacios" que se usan para guardar información, tanto caracteres como números. Se pueden usar para hacer cuentas o mostrar texto en pantalla, entre otras cosas. 
+
+Strings:
+Con esto se refiere a texto, o sea, cualquier caracter que no vaya a ser usado para hacer cuentas.
+
+Funciones (argumentos, return):
+Las funciones se usan cuando hay que usar el mismo bloque de código una y otra vez. Se crea una función y se la llama, en vez de estar tipeando varias veces ese código. El formato
+para declarar una función es
+
+function nombre_funcion(argumentos) {
+
+}
+
+nombre_funcion es el nombre que le vamos a dar a la función, siempre es bueno poner un nombre que nos permita saber que hace.
+Los argumentos son variables que la función va a usar.
+
+Return se usa dentro de una función para devolver un valor. Por ejemplo, si en nuestro código llamamos a una función que hace una suma, el return de la función devuelve el resultado.
+Si hay más código escrito dentro de la función, después del return, nunca se va a ejecutar porque return sale de la función.
+
+Declaraciones (if):
+Esto me confunde... No se supone que el if es un operador de control de flujo y comparación? Eso es lo que dice en la página.
+
+Valores booleanos:
+Los valores booleanos son true, que significa verdadero; y false, que significa falso. Se usan para hacer comparaciones.
